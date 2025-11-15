@@ -62,4 +62,12 @@ head, body {
     position: absolute;
     bottom: 5px;
     left: 5px;
+
+}
+
+.foot {
+    background-color: black;
+    color: white;
+    margin: auto;
+    padding: 30px;
 }
