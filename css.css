@@ -1,0 +1,65 @@
+body {
+    font-family: "Prompt", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+head, body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(196, 196, 196);
+    background-image: url(data:image/jpeg;base64,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);
+    background-position: center;
+    background-size: cover;
+}
+
+.menubar {
+    background-color: gray;
+    padding: 15px;
+    margin-bottom: 5px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+}
+
+.menu {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.content {
+    max-width: 500px;
+    padding-top: 70px;
+    margin: auto;
+}
+
+.pic {
+    position: relative;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.piccat {
+    width: 100%;
+}
+
+.live {
+    background-color: red;
+    color: white;
+    padding: 2px;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+
+.view {
+    background-color: gray;
+    color: white;
+    padding: 2px;
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
+}
